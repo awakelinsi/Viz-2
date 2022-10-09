@@ -19,7 +19,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 
   <!-- CSS file -->
-  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+  <link rel="stylesheet" type="text/css" href="styles.css" media="all">
 
 
 </head>
@@ -31,46 +31,25 @@
     <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-1-1">
-        <h1>Multiple Visualisations</h1>
-        <p>This page demonstrates how you can use pure.css grid for your layout.</p>
+        <h1>Total Energy Consumption in Australia</h1>
+        <p>There are two visualisations which are the map visualisation of total energy consumption by states
+          and bar chart of total energy consumption based on industry.</p>
       </div>
     </div>
     <!-- end pure grid group -->
 
     <!-- pure grid group -->
     <div class="pure-g">
-      <div class="pure-u-1-2">
+      <div class="pure-u-1-3">
         <div class="description description-left">
-          <h2>Two Columns Layout</h2>
-          <p>The first column contains text and the second column contains a visualisation.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed. </p>
+          <h2>Total Energy Consumption by States</h2>
+          <p>Below is a map visualisation that shows the total energy consumption based on states. There are 7 states in this visualisation and
+            Australia Capital Territory data is unavailable.</p>
         </div>
       </div>
-      <div class="pure-u-1-2">
+      <div class="pure-u-2-3">
         <div id="vis1" class="vis-container"></div>
       </div>
-    </div>
-    <!-- end pure grid group -->
-
-    <!-- pure grid group -->
-    <div class="pure-g">
-      <div class="pure-u-1-3">
-        <div class="description description-left">
-          <h2>Three Equal Columns</h2>
-          <p>Using all three columns without merging. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat
-            sed. Egestas purus viverra accumsan in nisl. Egestas purus viverra accumsan in nisl.</p>
-        </div>
-      </div>
-      <div class="pure-u-1-3">
-        <div id="vis4" class="vis-container"></div>
-      </div>
-      <div class="pure-u-1-3" style="width: 31.5%;">
-        <div id="vis3" class="vis-container" style="margin-left: 15px;"></div>
-      </div>
-
     </div>
     <!-- end pure grid group -->
 
@@ -80,11 +59,9 @@
         <div id="vis2" class="vis-container"></div>
       </div>
       <div class="pure-u-1-3">
-        <div class="description description-right">
-          <h2>First and Second Columns Combined</h2>
-          <p>The first and second columns are combined. Lorem ipsum dolor sit amet,
-            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien
-            faucibus et molestie ac feugiat sed. Egestas purus viverra accumsan in nisl.</p>
+        <div class="description description-left">
+          <h2>Total Energy Consumption based on type of industry</h2>
+          <p>Total Energy Consumption is distributed to 8 main areas, Agriculture, Mining, Manufacturing, Construction, Transport, Water and waste, Commercial and services, Residential, and Other</p>
         </div>
       </div>
 
@@ -93,8 +70,7 @@
 
     <div class="pure-g">
       <div class="pure-u-1-1 small-font">
-        <p>This visualisation is created by <a href="https://fit3179.github.io/Vega-Lite/" target="_blank">FIT3179
-            Teaching Team</a>. The datasource is <a href="#" target=" _blank">some data repository online</href>.</p>
+        <p>This visualisation is created by Agung Ratana Jayo Silim </href>.</p>
       </div>
     </div>
 
@@ -110,14 +86,7 @@
     vegaEmbed('#vis2', specVis2, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
-
-    vegaEmbed('#vis3', specVis1, { "actions": false }).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
-
-    vegaEmbed('#vis4', specVis2, { "actions": false }).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
+ 
   </script>
 </body>
 
