@@ -1,0 +1,6 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,21,Oceania,3,Both,22,All ages,561,Drug use disorders,1,Number,2019,41.855656746193176,54.10434791373754,32.63397249177375
+1,Deaths,44559,Africa,3,Both,22,All ages,561,Drug use disorders,1,Number,2019,3957.520896556524,4577.763219189948,3444.870250956441
+1,Deaths,44562,Europe,3,Both,22,All ages,561,Drug use disorders,1,Number,2019,19176.96534273862,21434.376363181753,17711.285374323445
+1,Deaths,44560,America,3,Both,22,All ages,561,Drug use disorders,1,Number,2019,71204.59116613521,74672.61519523461,68772.15486139612
+1,Deaths,44561,Asia,3,Both,22,All ages,561,Drug use disorders,1,Number,2019,33651.70880991768,36543.218801416835,30827.607183098018
