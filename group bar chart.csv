@@ -1,0 +1,26 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,1,Global,3,Both,22,All ages,294,All causes,1,Number,2018,55717197.85656579,58179968.242817365,53013477.61815418
+1,Deaths,1,Global,3,Both,22,All ages,562,Opioid use disorders,1,Number,2018,85309.34120311007,88643.82096884589,82127.7390686743
+1,Deaths,1,Global,3,Both,22,All ages,563,Cocaine use disorders,1,Number,2018,12076.045411633999,12717.9881400568,11359.37058514822
+1,Deaths,1,Global,3,Both,22,All ages,564,Amphetamine use disorders,1,Number,2018,8470.600971509066,9075.975021728422,7883.543752838082
+1,Deaths,1,Global,3,Both,22,All ages,566,Other drug use disorders,1,Number,2018,17274.246148730563,18345.581633743666,16177.403637416037
+1,Deaths,1,Global,3,Both,22,All ages,562,Opioid use disorders,1,Number,2019,88353.09929974156,92098.0167808154,85046.3444456914
+1,Deaths,1,Global,3,Both,22,All ages,563,Cocaine use disorders,1,Number,2019,12779.20834730408,13552.996356957718,12030.75818232237
+1,Deaths,1,Global,3,Both,22,All ages,564,Amphetamine use disorders,1,Number,2019,8964.233297404498,9610.867212439402,8340.775516324738
+1,Deaths,1,Global,3,Both,22,All ages,566,Other drug use disorders,1,Number,2019,17986.16031332962,19157.77339186433,16821.53533920313
+1,Deaths,1,Global,3,Both,22,All ages,294,All causes,1,Number,2019,56526959.50942301,59205882.99965871,53742682.45222171
+1,Deaths,1,Global,3,Both,22,All ages,294,All causes,1,Number,2015,54099722.62687073,55863388.72477044,52507346.93622799
+1,Deaths,1,Global,3,Both,22,All ages,562,Opioid use disorders,1,Number,2015,74498.93436571652,77195.09147664596,72101.05970928431
+1,Deaths,1,Global,3,Both,22,All ages,563,Cocaine use disorders,1,Number,2015,9421.69554611691,9936.88821801686,8961.955389933044
+1,Deaths,1,Global,3,Both,22,All ages,564,Amphetamine use disorders,1,Number,2015,6716.541188182431,7047.5072135199325,6404.538459655175
+1,Deaths,1,Global,3,Both,22,All ages,566,Other drug use disorders,1,Number,2015,14793.354810134897,15523.898634628893,14089.029676918528
+1,Deaths,1,Global,3,Both,22,All ages,294,All causes,1,Number,2017,54976603.1959673,57215458.1674732,52676670.9388267
+1,Deaths,1,Global,3,Both,22,All ages,562,Opioid use disorders,1,Number,2016,79533.95166046228,82401.3025254389,77134.76509378229
+1,Deaths,1,Global,3,Both,22,All ages,563,Cocaine use disorders,1,Number,2016,10410.034397383402,10904.587651909302,9922.805817944936
+1,Deaths,1,Global,3,Both,22,All ages,564,Amphetamine use disorders,1,Number,2016,7316.743770018192,7733.054452694894,6933.496239397923
+1,Deaths,1,Global,3,Both,22,All ages,566,Other drug use disorders,1,Number,2016,15638.168571890497,16475.242108564515,14847.444773677118
+1,Deaths,1,Global,3,Both,22,All ages,294,All causes,1,Number,2016,54547585.8831784,56645240.079491764,52670132.62300546
+1,Deaths,1,Global,3,Both,22,All ages,562,Opioid use disorders,1,Number,2017,82634.26163682542,85711.9069443792,79807.33917569027
+1,Deaths,1,Global,3,Both,22,All ages,563,Cocaine use disorders,1,Number,2017,11359.82984585929,11995.136163326699,10710.22283610835
+1,Deaths,1,Global,3,Both,22,All ages,564,Amphetamine use disorders,1,Number,2017,7914.194586229209,8424.310808305605,7383.33832414217
+1,Deaths,1,Global,3,Both,22,All ages,566,Other drug use disorders,1,Number,2017,16447.871031884562,17423.71941937442,15489.402980601843
