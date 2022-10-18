@@ -200,9 +200,9 @@ location_id,location_name,cause_name,year,rate,val
 61,Republic of Moldova,Cocaine use disorders,2019,0,1.008900174
 61,Republic of Moldova,Amphetamine use disorders,2019,0,0.855791641
 62,Rusia,Drug use disorders,2019,4,5877.049236
-62,Rusia,Opioid use disorders,2019,3.2,4763.989832
-62,Rusia,Cocaine use disorders,2019,0.1,168.2409005
-62,Rusia,Amphetamine use disorders,2019,0.2,252.1693555
+62,Russia,Opioid use disorders,2019,3.2,4763.989832
+62,Russia,Cocaine use disorders,2019,0.1,168.2409005
+62,Russia,Amphetamine use disorders,2019,0.2,252.1693555
 63,Ukraine,Drug use disorders,2019,3.4,1477.481295
 63,Ukraine,Opioid use disorders,2019,2.8,1225.864618
 63,Ukraine,Cocaine use disorders,2019,0.1,40.92769536
@@ -807,10 +807,10 @@ location_id,location_name,cause_name,year,rate,val
 422,United States Virgin Islands,Opioid use disorders,2019,0.4,0.443583539
 422,United States Virgin Islands,Cocaine use disorders,2019,1,1.041935087
 422,United States Virgin Islands,Amphetamine use disorders,2019,0.2,0.195003286
-435,South Sudan,Drug use disorders,2019,0.1,9.895997004
-435,South Sudan,Opioid use disorders,2019,0.1,7.191089965
-435,South Sudan,Cocaine use disorders,2019,0,0.546410556
-435,South Sudan,Amphetamine use disorders,2019,0,0.240946918
+435,S. Sudan,Drug use disorders,2019,0.1,9.895997004
+435,S. Sudan,Opioid use disorders,2019,0.1,7.191089965
+435,S. Sudan,Cocaine use disorders,2019,0,0.546410556
+435,S. Sudan,Amphetamine use disorders,2019,0,0.240946918
 522,Sudan,Drug use disorders,2019,0.9,379.817211
 522,Sudan,Opioid use disorders,2019,0.7,277.3863261
 522,Sudan,Cocaine use disorders,2019,0,17.89005289
