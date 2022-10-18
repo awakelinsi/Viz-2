@@ -66,10 +66,10 @@ location_id,location_name,cause_name,year,val
 47,Czechia,Opioid use disorders,2019,1.1
 47,Czechia,Cocaine use disorders,2019,0
 47,Czechia,Amphetamine use disorders,2019,0.1
-62,Rusia,Drug use disorders,2019,4
-62,Rusia,Opioid use disorders,2019,3.2
-62,Rusia,Cocaine use disorders,2019,0.1
-62,Rusia,Amphetamine use disorders,2019,0.2
+62,Russia,Drug use disorders,2019,4
+62,Russia,Opioid use disorders,2019,3.2
+62,Russia,Cocaine use disorders,2019,0.1
+62,Russia,Amphetamine use disorders,2019,0.2
 209,Guinea-Bissau,Drug use disorders,2019,0.2
 209,Guinea-Bissau,Opioid use disorders,2019,0.2
 209,Guinea-Bissau,Cocaine use disorders,2019,0
@@ -207,10 +207,10 @@ location_id,location_name,cause_name,year,val
 97,Argentina,Opioid use disorders,2019,0.1
 97,Argentina,Cocaine use disorders,2019,0
 97,Argentina,Amphetamine use disorders,2019,0
-435,South Sudan,Drug use disorders,2019,0.1
-435,South Sudan,Opioid use disorders,2019,0.1
-435,South Sudan,Cocaine use disorders,2019,0
-435,South Sudan,Amphetamine use disorders,2019,0
+435,S. Sudan,Drug use disorders,2019,0.1
+435,S. Sudan,Opioid use disorders,2019,0.1
+435,S. Sudan,Cocaine use disorders,2019,0
+435,S. Sudan,Amphetamine use disorders,2019,0
 351,Guam,Drug use disorders,2019,0.7
 102,United States of America,Drug use disorders,2019,20
 102,United States of America,Opioid use disorders,2019,14.4
