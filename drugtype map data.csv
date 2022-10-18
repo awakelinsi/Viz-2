@@ -19,10 +19,10 @@ location_id,location_name,cause_name,year,rate,val
 11,Indonesia,Opioid use disorders,2019,0.1,377.6165703
 11,Indonesia,Cocaine use disorders,2019,0,49.5059845
 11,Indonesia,Amphetamine use disorders,2019,0,34.04793962
-12,Lao People's Democratic Republic,Drug use disorders,2019,0.2,16.51726637
-12,Lao People's Democratic Republic,Opioid use disorders,2019,0.2,11.71522127
-12,Lao People's Democratic Republic,Cocaine use disorders,2019,0,1.21058413
-12,Lao People's Democratic Republic,Amphetamine use disorders,2019,0,0.864933362
+12,Laos,Drug use disorders,2019,0.2,16.51726637
+12,Laos,Opioid use disorders,2019,0.2,11.71522127
+12,Laos,Cocaine use disorders,2019,0,1.21058413
+12,Laos,Amphetamine use disorders,2019,0,0.864933362
 13,Malaysia,Amphetamine use disorders,2019,0,137.7339884
 13,Malaysia,Drug use disorders,2019,0.4,93.78077427
 13,Malaysia,Opioid use disorders,2019,0.3,16.08721623
@@ -199,7 +199,7 @@ location_id,location_name,cause_name,year,rate,val
 61,Republic of Moldova,Opioid use disorders,2019,0.6,22.40411834
 61,Republic of Moldova,Cocaine use disorders,2019,0,1.008900174
 61,Republic of Moldova,Amphetamine use disorders,2019,0,0.855791641
-62,Rusia,Drug use disorders,2019,4,5877.049236
+62,Russia,Drug use disorders,2019,4,5877.049236
 62,Russia,Opioid use disorders,2019,3.2,4763.989832
 62,Russia,Cocaine use disorders,2019,0.1,168.2409005
 62,Russia,Amphetamine use disorders,2019,0.2,252.1693555
