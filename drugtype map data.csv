@@ -1,0 +1,817 @@
+location_id,location_name,cause_name,year,val
+190,Uganda,Drug use disorders,2019,0.111894727
+206,Gambia,Drug use disorders,2019,0.154734257
+206,Gambia,Opioid use disorders,2019,0.134428243
+206,Gambia,Cocaine use disorders,2019,0.001470338
+111,Dominican Republic,Drug use disorders,2019,0.490146657
+111,Dominican Republic,Opioid use disorders,2019,0.161943722
+111,Dominican Republic,Cocaine use disorders,2019,0.130392376
+111,Dominican Republic,Amphetamine use disorders,2019,0.035767912
+127,El Salvador,Drug use disorders,2019,0.183024894
+127,El Salvador,Opioid use disorders,2019,0.069099223
+127,El Salvador,Cocaine use disorders,2019,0.055571387
+127,El Salvador,Amphetamine use disorders,2019,0.008221718
+63,Ukraine,Drug use disorders,2019,3.354677008
+63,Ukraine,Opioid use disorders,2019,2.783371852
+63,Ukraine,Cocaine use disorders,2019,0.092927876
+63,Ukraine,Amphetamine use disorders,2019,0.140127342
+190,Uganda,Opioid use disorders,2019,0.076991285
+190,Uganda,Cocaine use disorders,2019,0.005483733
+190,Uganda,Amphetamine use disorders,2019,0.002532965
+206,Gambia,Amphetamine use disorders,2019,0.000707852
+143,Iraq,Opioid use disorders,2019,0.92873401
+143,Iraq,Cocaine use disorders,2019,0.073159322
+143,Iraq,Amphetamine use disorders,2019,0.029525032
+157,Yemen,Drug use disorders,2019,0.828349635
+157,Yemen,Opioid use disorders,2019,0.614654029
+157,Yemen,Cocaine use disorders,2019,0.038428334
+157,Yemen,Amphetamine use disorders,2019,0.023860698
+298,American Samoa,Drug use disorders,2019,0.59434197
+298,American Samoa,Opioid use disorders,2019,0.408892372
+298,American Samoa,Cocaine use disorders,2019,0.044904691
+298,American Samoa,Amphetamine use disorders,2019,0.036542655
+95,United Kingdom,Drug use disorders,2019,3.94796584
+95,United Kingdom,Opioid use disorders,2019,2.927322848
+95,United Kingdom,Cocaine use disorders,2019,0.180496719
+95,United Kingdom,Amphetamine use disorders,2019,0.208804257
+393,Saint Kitts and Nevis,Drug use disorders,2019,0.388789417
+393,Saint Kitts and Nevis,Opioid use disorders,2019,0.104122524
+393,Saint Kitts and Nevis,Cocaine use disorders,2019,0.149135313
+393,Saint Kitts and Nevis,Amphetamine use disorders,2019,0.027785598
+17,Sri Lanka,Amphetamine use disorders,2019,0.037509702
+193,Botswana,Drug use disorders,2019,0.318749576
+193,Botswana,Opioid use disorders,2019,0.187401925
+193,Botswana,Cocaine use disorders,2019,0.023132633
+193,Botswana,Amphetamine use disorders,2019,0.01144378
+176,Comoros,Drug use disorders,2019,0.228143045
+176,Comoros,Opioid use disorders,2019,0.159702553
+176,Comoros,Cocaine use disorders,2019,0.010193611
+15,Myanmar,Drug use disorders,2019,0.391064995
+15,Myanmar,Opioid use disorders,2019,0.27403747
+15,Myanmar,Cocaine use disorders,2019,0.030833241
+15,Myanmar,Amphetamine use disorders,2019,0.021156799
+79,Finland,Drug use disorders,2019,5.264685479
+79,Finland,Opioid use disorders,2019,3.95671361
+79,Finland,Cocaine use disorders,2019,0.214070243
+79,Finland,Amphetamine use disorders,2019,0.302469394
+173,Gabon,Drug use disorders,2019,0.566860733
+173,Gabon,Opioid use disorders,2019,0.323262448
+173,Gabon,Cocaine use disorders,2019,0.050417257
+173,Gabon,Amphetamine use disorders,2019,0.020444208
+66,Brunei Darussalam,Drug use disorders,2019,0.571842708
+66,Brunei Darussalam,Opioid use disorders,2019,0.381329979
+66,Brunei Darussalam,Cocaine use disorders,2019,0.035069375
+66,Brunei Darussalam,Amphetamine use disorders,2019,0.020010077
+47,Czechia,Drug use disorders,2019,1.276390496
+47,Czechia,Opioid use disorders,2019,1.050951875
+47,Czechia,Cocaine use disorders,2019,0.032515617
+47,Czechia,Amphetamine use disorders,2019,0.054588234
+62,Russian Federation,Drug use disorders,2019,4.005692668
+62,Russian Federation,Opioid use disorders,2019,3.247051092
+62,Russian Federation,Cocaine use disorders,2019,0.114670018
+62,Russian Federation,Amphetamine use disorders,2019,0.171874166
+209,Guinea-Bissau,Drug use disorders,2019,0.193636649
+209,Guinea-Bissau,Opioid use disorders,2019,0.172767163
+209,Guinea-Bissau,Cocaine use disorders,2019,0.001780675
+209,Guinea-Bissau,Amphetamine use disorders,2019,0.000952209
+94,Switzerland,Drug use disorders,2019,2.418576365
+94,Switzerland,Opioid use disorders,2019,1.777681446
+94,Switzerland,Cocaine use disorders,2019,0.120614536
+94,Switzerland,Amphetamine use disorders,2019,0.128157381
+50,Montenegro,Drug use disorders,2019,0.181882316
+50,Montenegro,Opioid use disorders,2019,0.108262146
+50,Montenegro,Cocaine use disorders,2019,0.006259966
+50,Montenegro,Amphetamine use disorders,2019,0.006272939
+46,Croatia,Drug use disorders,2019,1.637817902
+46,Croatia,Opioid use disorders,2019,1.40725738
+46,Croatia,Cocaine use disorders,2019,0.03502575
+46,Croatia,Amphetamine use disorders,2019,0.053453918
+78,Denmark,Drug use disorders,2019,3.405271852
+126,Costa Rica,Cocaine use disorders,2019,0.274745463
+126,Costa Rica,Amphetamine use disorders,2019,0.049239009
+128,Guatemala,Drug use disorders,2019,1.227868359
+128,Guatemala,Opioid use disorders,2019,0.266807606
+128,Guatemala,Cocaine use disorders,2019,0.637447385
+128,Guatemala,Amphetamine use disorders,2019,0.082164563
+80,France,Drug use disorders,2019,2.778401799
+80,France,Opioid use disorders,2019,2.305298494
+110,Dominica,Drug use disorders,2019,0.660804901
+98,Chile,Drug use disorders,2019,0.391498899
+98,Chile,Opioid use disorders,2019,0.272752655
+98,Chile,Cocaine use disorders,2019,0.043984484
+98,Chile,Amphetamine use disorders,2019,0.020191715
+416,Tuvalu,Drug use disorders,2019,0.667830534
+416,Tuvalu,Opioid use disorders,2019,0.508776204
+416,Tuvalu,Cocaine use disorders,2019,0.033774567
+416,Tuvalu,Amphetamine use disorders,2019,0.028864092
+34,Azerbaijan,Cocaine use disorders,2019,0.014020755
+34,Azerbaijan,Drug use disorders,2019,0.37542902
+34,Azerbaijan,Opioid use disorders,2019,0.296834083
+33,Armenia,Drug use disorders,2019,0.335483988
+33,Armenia,Opioid use disorders,2019,0.170361882
+33,Armenia,Cocaine use disorders,2019,0.020681537
+33,Armenia,Amphetamine use disorders,2019,0.012935659
+179,Ethiopia,Drug use disorders,2019,0.202115185
+179,Ethiopia,Opioid use disorders,2019,0.152121434
+179,Ethiopia,Cocaine use disorders,2019,0.008386605
+179,Ethiopia,Amphetamine use disorders,2019,0.003247914
+110,Dominica,Opioid use disorders,2019,0.146254637
+110,Dominica,Cocaine use disorders,2019,0.373825452
+110,Dominica,Amphetamine use disorders,2019,0.029518727
+112,Grenada,Drug use disorders,2019,0.857026604
+112,Grenada,Opioid use disorders,2019,0.179249102
+112,Grenada,Cocaine use disorders,2019,0.429020294
+112,Grenada,Amphetamine use disorders,2019,0.066433693
+396,San Marino,Drug use disorders,2019,0.315948721
+396,San Marino,Opioid use disorders,2019,0.178821028
+396,San Marino,Cocaine use disorders,2019,0.002608587
+396,San Marino,Amphetamine use disorders,2019,0.005545253
+130,Mexico,Amphetamine use disorders,2019,0.044815562
+160,Afghanistan,Drug use disorders,2019,1.061430213
+160,Afghanistan,Opioid use disorders,2019,0.818126493
+160,Afghanistan,Cocaine use disorders,2019,0.042168903
+160,Afghanistan,Amphetamine use disorders,2019,0.026383378
+78,Denmark,Opioid use disorders,2019,2.513522105
+78,Denmark,Cocaine use disorders,2019,0.137577609
+78,Denmark,Amphetamine use disorders,2019,0.198343066
+163,India,Drug use disorders,2019,0.608698046
+163,India,Opioid use disorders,2019,0.421753399
+163,India,Cocaine use disorders,2019,0.031072012
+163,India,Amphetamine use disorders,2019,0.019954879
+82,Greece,Drug use disorders,2019,1.798064321
+82,Greece,Opioid use disorders,2019,1.545366311
+82,Greece,Cocaine use disorders,2019,0.030562125
+82,Greece,Amphetamine use disorders,2019,0.048477852
+349,Greenland,Drug use disorders,2019,3.536461018
+349,Greenland,Opioid use disorders,2019,2.231830316
+349,Greenland,Cocaine use disorders,2019,0.354250935
+349,Greenland,Amphetamine use disorders,2019,0.260523187
+8,Taiwan (Province of China),Drug use disorders,2019,2.193695254
+8,Taiwan (Province of China),Opioid use disorders,2019,1.098424793
+8,Taiwan (Province of China),Cocaine use disorders,2019,0.022342819
+144,Jordan,Drug use disorders,2019,0.146623222
+144,Jordan,Opioid use disorders,2019,0.095183759
+144,Jordan,Cocaine use disorders,2019,0.00963613
+144,Jordan,Amphetamine use disorders,2019,0.005603101
+8,Taiwan (Province of China),Amphetamine use disorders,2019,0.479961923
+194,Lesotho,Drug use disorders,2019,0.347937662
+194,Lesotho,Opioid use disorders,2019,0.210681234
+305,Bermuda,Drug use disorders,2019,1.356973902
+305,Bermuda,Opioid use disorders,2019,0.423770585
+305,Bermuda,Cocaine use disorders,2019,0.574239876
+305,Bermuda,Amphetamine use disorders,2019,0.123247553
+196,South Africa,Drug use disorders,2019,0.206228807
+196,South Africa,Opioid use disorders,2019,0.120055504
+196,South Africa,Cocaine use disorders,2019,0.019853521
+196,South Africa,Amphetamine use disorders,2019,0.008469499
+34,Azerbaijan,Amphetamine use disorders,2019,0.025378153
+212,Mauritania,Drug use disorders,2019,0.128381557
+212,Mauritania,Opioid use disorders,2019,0.106480357
+212,Mauritania,Cocaine use disorders,2019,0.001221329
+212,Mauritania,Amphetamine use disorders,2019,0.000672519
+176,Comoros,Amphetamine use disorders,2019,0.004257265
+67,Japan,Drug use disorders,2019,0.383178394
+83,Iceland,Drug use disorders,2019,4.186906798
+83,Iceland,Opioid use disorders,2019,2.980557518
+83,Iceland,Cocaine use disorders,2019,0.20628057
+83,Iceland,Amphetamine use disorders,2019,0.300588584
+182,Malawi,Drug use disorders,2019,0.212170641
+182,Malawi,Opioid use disorders,2019,0.150386777
+182,Malawi,Cocaine use disorders,2019,0.009666351
+182,Malawi,Amphetamine use disorders,2019,0.00424888
+17,Sri Lanka,Cocaine use disorders,2019,0.074106057
+164,Nepal,Drug use disorders,2019,0.119881718
+81,Germany,Amphetamine use disorders,2019,0.097461181
+162,Bhutan,Drug use disorders,2019,0.24840511
+162,Bhutan,Opioid use disorders,2019,0.194713909
+162,Bhutan,Cocaine use disorders,2019,0.010948326
+162,Bhutan,Amphetamine use disorders,2019,0.006541533
+131,Nicaragua,Cocaine use disorders,2019,0.061902371
+131,Nicaragua,Amphetamine use disorders,2019,0.010218247
+36,Kazakhstan,Drug use disorders,2019,4.072998974
+36,Kazakhstan,Opioid use disorders,2019,2.943946724
+36,Kazakhstan,Cocaine use disorders,2019,0.40327379
+36,Kazakhstan,Amphetamine use disorders,2019,0.238881466
+115,Jamaica,Drug use disorders,2019,0.227023179
+115,Jamaica,Opioid use disorders,2019,0.089803075
+115,Jamaica,Cocaine use disorders,2019,0.046424203
+115,Jamaica,Amphetamine use disorders,2019,0.01285945
+210,Liberia,Drug use disorders,2019,0.137187539
+210,Liberia,Opioid use disorders,2019,0.121256153
+210,Liberia,Cocaine use disorders,2019,0.001114494
+210,Liberia,Amphetamine use disorders,2019,0.000613993
+17,Sri Lanka,Drug use disorders,2019,0.610888303
+17,Sri Lanka,Opioid use disorders,2019,0.425191683
+126,Costa Rica,Drug use disorders,2019,0.560832517
+126,Costa Rica,Opioid use disorders,2019,0.133765211
+97,Argentina,Opioid use disorders,2019,0.106756355
+97,Argentina,Cocaine use disorders,2019,0.021497863
+97,Argentina,Amphetamine use disorders,2019,0.007295981
+435,South Sudan,Drug use disorders,2019,0.106603861
+435,South Sudan,Opioid use disorders,2019,0.077465459
+435,South Sudan,Cocaine use disorders,2019,0.005886165
+435,South Sudan,Amphetamine use disorders,2019,0.002595582
+351,Guam,Drug use disorders,2019,0.682741886
+102,United States of America,Drug use disorders,2019,20.03689415
+102,United States of America,Opioid use disorders,2019,14.43284784
+102,United States of America,Cocaine use disorders,2019,2.537600648
+102,United States of America,Amphetamine use disorders,2019,1.352831254
+101,Canada,Drug use disorders,2019,6.916351836
+101,Canada,Opioid use disorders,2019,5.111404641
+175,Burundi,Drug use disorders,2019,0.134500136
+175,Burundi,Opioid use disorders,2019,0.100058849
+175,Burundi,Cocaine use disorders,2019,0.005521996
+175,Burundi,Amphetamine use disorders,2019,0.002312386
+51,Poland,Drug use disorders,2019,0.549145142
+49,North Macedonia,Cocaine use disorders,2019,0.016349648
+49,North Macedonia,Amphetamine use disorders,2019,0.022070217
+213,Niger,Drug use disorders,2019,0.059834109
+213,Niger,Opioid use disorders,2019,0.053903933
+213,Niger,Cocaine use disorders,2019,0.00041378
+213,Niger,Amphetamine use disorders,2019,0.000232954
+133,Venezuela (Bolivarian Republic of),Drug use disorders,2019,0.322249848
+133,Venezuela (Bolivarian Republic of),Opioid use disorders,2019,0.084478311
+133,Venezuela (Bolivarian Republic of),Cocaine use disorders,2019,0.109645727
+133,Venezuela (Bolivarian Republic of),Amphetamine use disorders,2019,0.019104881
+130,Mexico,Drug use disorders,2019,0.476927451
+130,Mexico,Opioid use disorders,2019,0.108137879
+130,Mexico,Cocaine use disorders,2019,0.219510184
+86,Italy,Drug use disorders,2019,0.933474065
+86,Italy,Opioid use disorders,2019,0.660904102
+86,Italy,Cocaine use disorders,2019,0.037647762
+86,Italy,Amphetamine use disorders,2019,0.054718349
+24,Marshall Islands,Drug use disorders,2019,0.807061972
+24,Marshall Islands,Opioid use disorders,2019,0.620322343
+24,Marshall Islands,Cocaine use disorders,2019,0.044695663
+24,Marshall Islands,Amphetamine use disorders,2019,0.034606597
+185,Rwanda,Drug use disorders,2019,0.148735101
+185,Rwanda,Opioid use disorders,2019,0.105760062
+185,Rwanda,Cocaine use disorders,2019,0.006775922
+185,Rwanda,Amphetamine use disorders,2019,0.002753981
+367,Monaco,Amphetamine use disorders,2019,0.021370997
+16,Philippines,Drug use disorders,2019,0.289965803
+16,Philippines,Opioid use disorders,2019,0.184800476
+16,Philippines,Cocaine use disorders,2019,0.027107691
+16,Philippines,Amphetamine use disorders,2019,0.024031154
+117,Saint Vincent and the Grenadines,Amphetamine use disorders,2019,0.02225687
+161,Bangladesh,Opioid use disorders,2019,0.146912603
+161,Bangladesh,Cocaine use disorders,2019,0.006857139
+161,Bangladesh,Amphetamine use disorders,2019,0.004379921
+48,Hungary,Drug use disorders,2019,0.651075829
+48,Hungary,Opioid use disorders,2019,0.494396944
+48,Hungary,Cocaine use disorders,2019,0.021829432
+48,Hungary,Amphetamine use disorders,2019,0.031371755
+191,Zambia,Drug use disorders,2019,0.326801744
+191,Zambia,Opioid use disorders,2019,0.206472262
+191,Zambia,Cocaine use disorders,2019,0.02044688
+191,Zambia,Amphetamine use disorders,2019,0.009520879
+35,Georgia,Drug use disorders,2019,0.703537351
+35,Georgia,Opioid use disorders,2019,0.461518904
+35,Georgia,Cocaine use disorders,2019,0.086621061
+35,Georgia,Amphetamine use disorders,2019,0.049430328
+23,Kiribati,Drug use disorders,2019,0.841802412
+23,Kiribati,Opioid use disorders,2019,0.644402792
+23,Kiribati,Cocaine use disorders,2019,0.04144829
+23,Kiribati,Amphetamine use disorders,2019,0.034767192
+211,Mali,Opioid use disorders,2019,0.074805844
+80,France,Cocaine use disorders,2019,0.061992318
+80,France,Amphetamine use disorders,2019,0.143108844
+216,Senegal,Drug use disorders,2019,0.131593497
+216,Senegal,Opioid use disorders,2019,0.114522096
+216,Senegal,Cocaine use disorders,2019,0.001138403
+216,Senegal,Amphetamine use disorders,2019,0.000596587
+136,Paraguay,Drug use disorders,2019,0.216502591
+136,Paraguay,Opioid use disorders,2019,0.068954508
+136,Paraguay,Cocaine use disorders,2019,0.081205128
+136,Paraguay,Amphetamine use disorders,2019,0.012303329
+55,Slovenia,Cocaine use disorders,2019,0.053010833
+55,Slovenia,Amphetamine use disorders,2019,0.067452146
+211,Mali,Cocaine use disorders,2019,0.000654717
+211,Mali,Amphetamine use disorders,2019,0.00035994
+57,Belarus,Drug use disorders,2019,2.478138341
+57,Belarus,Opioid use disorders,2019,2.038259971
+57,Belarus,Cocaine use disorders,2019,0.059283618
+57,Belarus,Amphetamine use disorders,2019,0.05335213
+12,Lao People's Democratic Republic,Drug use disorders,2019,0.230744484
+12,Lao People's Democratic Republic,Opioid use disorders,2019,0.163660416
+12,Lao People's Democratic Republic,Cocaine use disorders,2019,0.016911734
+12,Lao People's Democratic Republic,Amphetamine use disorders,2019,0.012083029
+161,Bangladesh,Drug use disorders,2019,0.187651718
+180,Kenya,Drug use disorders,2019,0.182699253
+180,Kenya,Opioid use disorders,2019,0.117767547
+180,Kenya,Cocaine use disorders,2019,0.011352526
+180,Kenya,Amphetamine use disorders,2019,0.004931266
+37,Kyrgyzstan,Opioid use disorders,2019,0.653398291
+37,Kyrgyzstan,Cocaine use disorders,2019,0.112894868
+37,Kyrgyzstan,Amphetamine use disorders,2019,0.062063316
+68,Republic of Korea,Drug use disorders,2019,0.223267475
+68,Republic of Korea,Opioid use disorders,2019,0.128895628
+68,Republic of Korea,Cocaine use disorders,2019,0.018292878
+68,Republic of Korea,Amphetamine use disorders,2019,0.009017804
+150,Oman,Drug use disorders,2019,0.359948041
+150,Oman,Opioid use disorders,2019,0.270222036
+150,Oman,Cocaine use disorders,2019,0.028461617
+150,Oman,Amphetamine use disorders,2019,0.014563465
+97,Argentina,Drug use disorders,2019,0.190855079
+52,Romania,Drug use disorders,2019,0.773010381
+52,Romania,Opioid use disorders,2019,0.635908697
+52,Romania,Cocaine use disorders,2019,0.025030386
+52,Romania,Amphetamine use disorders,2019,0.023295373
+165,Pakistan,Drug use disorders,2019,0.386790122
+165,Pakistan,Opioid use disorders,2019,0.286904572
+165,Pakistan,Cocaine use disorders,2019,0.019515882
+165,Pakistan,Amphetamine use disorders,2019,0.01275036
+99,Uruguay,Opioid use disorders,2019,0.296270091
+99,Uruguay,Cocaine use disorders,2019,0.061459001
+99,Uruguay,Amphetamine use disorders,2019,0.019589363
+413,Tokelau,Cocaine use disorders,2019,0.024779865
+413,Tokelau,Amphetamine use disorders,2019,0.020108021
+207,Ghana,Drug use disorders,2019,0.182616093
+207,Ghana,Opioid use disorders,2019,0.165530369
+207,Ghana,Cocaine use disorders,2019,0.001458785
+207,Ghana,Amphetamine use disorders,2019,0.000998624
+10,Cambodia,Drug use disorders,2019,0.222997024
+10,Cambodia,Opioid use disorders,2019,0.158866494
+10,Cambodia,Cocaine use disorders,2019,0.014449784
+10,Cambodia,Amphetamine use disorders,2019,0.009974216
+522,Sudan,Drug use disorders,2019,0.930732349
+522,Sudan,Opioid use disorders,2019,0.679728089
+522,Sudan,Cocaine use disorders,2019,0.043839116
+522,Sudan,Amphetamine use disorders,2019,0.027768099
+351,Guam,Opioid use disorders,2019,0.410712174
+351,Guam,Cocaine use disorders,2019,0.052183837
+351,Guam,Amphetamine use disorders,2019,0.115434313
+200,Benin,Drug use disorders,2019,0.118397307
+200,Benin,Opioid use disorders,2019,0.103879311
+197,Eswatini,Drug use disorders,2019,0.331090639
+197,Eswatini,Opioid use disorders,2019,0.191057874
+197,Eswatini,Cocaine use disorders,2019,0.02238734
+197,Eswatini,Amphetamine use disorders,2019,0.012212653
+54,Slovakia,Drug use disorders,2019,0.338813734
+54,Slovakia,Opioid use disorders,2019,0.251155928
+54,Slovakia,Cocaine use disorders,2019,0.010349686
+54,Slovakia,Amphetamine use disorders,2019,0.015413477
+20,Viet Nam,Drug use disorders,2019,1.22018783
+20,Viet Nam,Opioid use disorders,2019,0.826176419
+20,Viet Nam,Cocaine use disorders,2019,0.096998547
+20,Viet Nam,Amphetamine use disorders,2019,0.080680316
+84,Ireland,Amphetamine use disorders,2019,0.215489818
+18,Thailand,Drug use disorders,2019,0.69341305
+18,Thailand,Opioid use disorders,2019,0.389318028
+18,Thailand,Cocaine use disorders,2019,0.051616037
+18,Thailand,Amphetamine use disorders,2019,0.119678318
+422,United States Virgin Islands,Drug use disorders,2019,1.96176757
+422,United States Virgin Islands,Opioid use disorders,2019,0.426582817
+422,United States Virgin Islands,Cocaine use disorders,2019,1.002002025
+422,United States Virgin Islands,Amphetamine use disorders,2019,0.187529616
+147,Libya,Drug use disorders,2019,3.003106179
+147,Libya,Opioid use disorders,2019,1.889232313
+38,Mongolia,Cocaine use disorders,2019,0.059315346
+105,Antigua and Barbuda,Drug use disorders,2019,0.502262257
+105,Antigua and Barbuda,Opioid use disorders,2019,0.116174787
+195,Namibia,Drug use disorders,2019,0.240132507
+195,Namibia,Opioid use disorders,2019,0.142293983
+195,Namibia,Cocaine use disorders,2019,0.018009198
+195,Namibia,Amphetamine use disorders,2019,0.008552759
+114,Haiti,Drug use disorders,2019,0.335772519
+114,Haiti,Opioid use disorders,2019,0.114141754
+114,Haiti,Cocaine use disorders,2019,0.130142375
+114,Haiti,Amphetamine use disorders,2019,0.020156312
+6,China,Drug use disorders,2019,0.804687866
+6,China,Opioid use disorders,2019,0.422445554
+6,China,Cocaine use disorders,2019,0.02324184
+6,China,Amphetamine use disorders,2019,0.145098999
+39,Tajikistan,Drug use disorders,2019,0.252605282
+39,Tajikistan,Opioid use disorders,2019,0.129623311
+39,Tajikistan,Cocaine use disorders,2019,0.014305686
+39,Tajikistan,Amphetamine use disorders,2019,0.030555143
+41,Uzbekistan,Drug use disorders,2019,0.559163073
+41,Uzbekistan,Opioid use disorders,2019,0.394968775
+41,Uzbekistan,Cocaine use disorders,2019,0.067802217
+41,Uzbekistan,Amphetamine use disorders,2019,0.034332052
+118,Suriname,Opioid use disorders,2019,0.105373557
+118,Suriname,Cocaine use disorders,2019,0.294995797
+118,Suriname,Amphetamine use disorders,2019,0.06678531
+113,Guyana,Drug use disorders,2019,0.279878154
+113,Guyana,Opioid use disorders,2019,0.092039815
+113,Guyana,Cocaine use disorders,2019,0.099657696
+113,Guyana,Amphetamine use disorders,2019,0.015290391
+53,Serbia,Drug use disorders,2019,0.820379767
+53,Serbia,Opioid use disorders,2019,0.599865468
+53,Serbia,Cocaine use disorders,2019,0.022875632
+53,Serbia,Amphetamine use disorders,2019,0.035843343
+215,Sao Tome and Principe,Cocaine use disorders,2019,0.004686988
+215,Sao Tome and Principe,Amphetamine use disorders,2019,0.002390023
+38,Mongolia,Drug use disorders,2019,0.592526209
+38,Mongolia,Opioid use disorders,2019,0.425724981
+72,New Zealand,Drug use disorders,2019,1.446983985
+72,New Zealand,Opioid use disorders,2019,0.650786987
+72,New Zealand,Cocaine use disorders,2019,0.012648487
+72,New Zealand,Amphetamine use disorders,2019,0.056591172
+198,Zimbabwe,Amphetamine use disorders,2019,0.060765998
+129,Honduras,Drug use disorders,2019,1.060096759
+129,Honduras,Opioid use disorders,2019,0.319539027
+129,Honduras,Cocaine use disorders,2019,0.450319668
+129,Honduras,Amphetamine use disorders,2019,0.075501048
+11,Indonesia,Drug use disorders,2019,0.226879955
+11,Indonesia,Opioid use disorders,2019,0.145536143
+11,Indonesia,Cocaine use disorders,2019,0.019079963
+11,Indonesia,Amphetamine use disorders,2019,0.013122321
+101,Canada,Cocaine use disorders,2019,0.889504002
+132,Panama,Amphetamine use disorders,2019,0.028997241
+105,Antigua and Barbuda,Amphetamine use disorders,2019,0.047576774
+85,Israel,Drug use disorders,2019,0.679691851
+85,Israel,Opioid use disorders,2019,0.434003188
+85,Israel,Cocaine use disorders,2019,0.029989767
+85,Israel,Amphetamine use disorders,2019,0.028403342
+146,Lebanon,Drug use disorders,2019,2.450112242
+147,Libya,Cocaine use disorders,2019,0.239085633
+147,Libya,Amphetamine use disorders,2019,0.155192689
+178,Eritrea,Cocaine use disorders,2019,0.012164491
+178,Eritrea,Amphetamine use disorders,2019,0.005702774
+117,Saint Vincent and the Grenadines,Drug use disorders,2019,0.28567579
+117,Saint Vincent and the Grenadines,Opioid use disorders,2019,0.082204489
+117,Saint Vincent and the Grenadines,Cocaine use disorders,2019,0.113962737
+200,Benin,Cocaine use disorders,2019,0.001124288
+200,Benin,Amphetamine use disorders,2019,0.000541855
+178,Eritrea,Drug use disorders,2019,0.239351702
+178,Eritrea,Opioid use disorders,2019,0.162731851
+101,Canada,Amphetamine use disorders,2019,0.398539034
+7,Democratic People's Republic of Korea,Drug use disorders,2019,1.287668412
+7,Democratic People's Republic of Korea,Opioid use disorders,2019,0.683161766
+7,Democratic People's Republic of Korea,Cocaine use disorders,2019,0.024934753
+7,Democratic People's Republic of Korea,Amphetamine use disorders,2019,0.242956331
+132,Panama,Drug use disorders,2019,0.454180016
+132,Panama,Opioid use disorders,2019,0.100716967
+132,Panama,Cocaine use disorders,2019,0.226733956
+146,Lebanon,Opioid use disorders,2019,1.523314626
+146,Lebanon,Cocaine use disorders,2019,0.185735822
+146,Lebanon,Amphetamine use disorders,2019,0.111585038
+142,Iran (Islamic Republic of),Drug use disorders,2019,3.461686458
+142,Iran (Islamic Republic of),Opioid use disorders,2019,2.356319541
+142,Iran (Islamic Republic of),Cocaine use disorders,2019,0.268153404
+142,Iran (Islamic Republic of),Amphetamine use disorders,2019,0.145253342
+149,Palestine,Drug use disorders,2019,0.15430782
+149,Palestine,Opioid use disorders,2019,0.100185749
+149,Palestine,Cocaine use disorders,2019,0.00866871
+149,Palestine,Amphetamine use disorders,2019,0.003311442
+170,Congo,Drug use disorders,2019,0.43669897
+170,Congo,Opioid use disorders,2019,0.268169163
+170,Congo,Cocaine use disorders,2019,0.031996321
+170,Congo,Amphetamine use disorders,2019,0.013822484
+151,Qatar,Drug use disorders,2019,0.265113854
+151,Qatar,Opioid use disorders,2019,0.206130486
+151,Qatar,Cocaine use disorders,2019,0.017976887
+367,Monaco,Drug use disorders,2019,0.322739271
+367,Monaco,Opioid use disorders,2019,0.132518826
+367,Monaco,Cocaine use disorders,2019,0.007491145
+37,Kyrgyzstan,Drug use disorders,2019,0.964278187
+413,Tokelau,Drug use disorders,2019,0.474904745
+413,Tokelau,Opioid use disorders,2019,0.351988785
+89,Netherlands,Drug use disorders,2019,1.023397505
+89,Netherlands,Opioid use disorders,2019,0.74803286
+89,Netherlands,Cocaine use disorders,2019,0.054504339
+89,Netherlands,Amphetamine use disorders,2019,0.056538667
+105,Antigua and Barbuda,Cocaine use disorders,2019,0.238765836
+168,Angola,Cocaine use disorders,2019,0.018645552
+168,Angola,Amphetamine use disorders,2019,0.008077543
+67,Japan,Opioid use disorders,2019,0.210183826
+67,Japan,Cocaine use disorders,2019,0.026095978
+67,Japan,Amphetamine use disorders,2019,0.013521104
+75,Austria,Drug use disorders,2019,1.565903837
+75,Austria,Opioid use disorders,2019,1.247863215
+75,Austria,Cocaine use disorders,2019,0.044988732
+75,Austria,Amphetamine use disorders,2019,0.054264748
+143,Iraq,Drug use disorders,2019,1.388522377
+99,Uruguay,Drug use disorders,2019,0.450969307
+181,Madagascar,Drug use disorders,2019,0.183081035
+181,Madagascar,Opioid use disorders,2019,0.127767043
+181,Madagascar,Cocaine use disorders,2019,0.009437278
+181,Madagascar,Amphetamine use disorders,2019,0.004118168
+69,Singapore,Drug use disorders,2019,0.285528978
+69,Singapore,Opioid use disorders,2019,0.202723959
+81,Germany,Drug use disorders,2019,1.976256972
+81,Germany,Opioid use disorders,2019,1.450690013
+81,Germany,Cocaine use disorders,2019,0.08173343
+208,Guinea,Drug use disorders,2019,0.135285979
+208,Guinea,Opioid use disorders,2019,0.118789638
+208,Guinea,Cocaine use disorders,2019,0.001168306
+208,Guinea,Amphetamine use disorders,2019,0.000644933
+69,Singapore,Cocaine use disorders,2019,0.024002541
+69,Singapore,Amphetamine use disorders,2019,0.012444139
+131,Nicaragua,Drug use disorders,2019,0.181440093
+131,Nicaragua,Opioid use disorders,2019,0.06135639
+49,North Macedonia,Drug use disorders,2019,0.613956582
+49,North Macedonia,Opioid use disorders,2019,0.480488688
+76,Belgium,Opioid use disorders,2019,1.455743203
+76,Belgium,Cocaine use disorders,2019,0.086055306
+76,Belgium,Amphetamine use disorders,2019,0.104788479
+122,Ecuador,Drug use disorders,2019,0.379024426
+141,Egypt,Drug use disorders,2019,0.082745015
+141,Egypt,Opioid use disorders,2019,0.054437878
+141,Egypt,Cocaine use disorders,2019,0.005791274
+141,Egypt,Amphetamine use disorders,2019,0.003691096
+320,Cook Islands,Drug use disorders,2019,0.327857949
+320,Cook Islands,Opioid use disorders,2019,0.212756689
+320,Cook Islands,Cocaine use disorders,2019,0.025294056
+320,Cook Islands,Amphetamine use disorders,2019,0.023485906
+51,Poland,Opioid use disorders,2019,0.368636335
+51,Poland,Cocaine use disorders,2019,0.026002782
+51,Poland,Amphetamine use disorders,2019,0.036953792
+145,Kuwait,Drug use disorders,2019,0.523729559
+145,Kuwait,Opioid use disorders,2019,0.121044945
+145,Kuwait,Cocaine use disorders,2019,0.044678323
+145,Kuwait,Amphetamine use disorders,2019,0.048522466
+109,Cuba,Drug use disorders,2019,0.270278543
+109,Cuba,Opioid use disorders,2019,0.085557835
+109,Cuba,Cocaine use disorders,2019,0.089946621
+109,Cuba,Amphetamine use disorders,2019,0.016432661
+380,Palau,Drug use disorders,2019,0.657477595
+183,Mauritius,Drug use disorders,2019,1.105790741
+183,Mauritius,Opioid use disorders,2019,0.703303631
+183,Mauritius,Cocaine use disorders,2019,0.116434197
+183,Mauritius,Amphetamine use disorders,2019,0.063901731
+13,Malaysia,Amphetamine use disorders,2019,0.028633404
+202,Cameroon,Drug use disorders,2019,0.271593095
+202,Cameroon,Opioid use disorders,2019,0.235477992
+202,Cameroon,Cocaine use disorders,2019,0.003427333
+202,Cameroon,Amphetamine use disorders,2019,0.001669941
+164,Nepal,Opioid use disorders,2019,0.093237471
+164,Nepal,Cocaine use disorders,2019,0.004344605
+177,Djibouti,Drug use disorders,2019,0.231748017
+177,Djibouti,Opioid use disorders,2019,0.161600446
+177,Djibouti,Cocaine use disorders,2019,0.012516352
+177,Djibouti,Amphetamine use disorders,2019,0.005244049
+25,Micronesia (Federated States of),Drug use disorders,2019,0.847210011
+25,Micronesia (Federated States of),Opioid use disorders,2019,0.626925817
+25,Micronesia (Federated States of),Cocaine use disorders,2019,0.047442824
+25,Micronesia (Federated States of),Amphetamine use disorders,2019,0.044019113
+139,Algeria,Drug use disorders,2019,1.25684623
+139,Algeria,Opioid use disorders,2019,0.872205149
+139,Algeria,Cocaine use disorders,2019,0.073297579
+139,Algeria,Amphetamine use disorders,2019,0.039542621
+60,Lithuania,Drug use disorders,2019,6.052543379
+60,Lithuania,Opioid use disorders,2019,5.009251454
+60,Lithuania,Cocaine use disorders,2019,0.185119823
+60,Lithuania,Amphetamine use disorders,2019,0.295506478
+154,Tunisia,Drug use disorders,2019,1.362342307
+154,Tunisia,Opioid use disorders,2019,0.910570753
+154,Tunisia,Cocaine use disorders,2019,0.08372199
+154,Tunisia,Amphetamine use disorders,2019,0.047749362
+44,Bosnia and Herzegovina,Drug use disorders,2019,0.328985514
+44,Bosnia and Herzegovina,Opioid use disorders,2019,0.226863989
+44,Bosnia and Herzegovina,Cocaine use disorders,2019,0.008440993
+44,Bosnia and Herzegovina,Amphetamine use disorders,2019,0.010377954
+19,Timor-Leste,Drug use disorders,2019,0.129961558
+19,Timor-Leste,Opioid use disorders,2019,0.092443896
+19,Timor-Leste,Cocaine use disorders,2019,0.008138671
+19,Timor-Leste,Amphetamine use disorders,2019,0.005656308
+26,Papua New Guinea,Drug use disorders,2019,0.258024732
+26,Papua New Guinea,Opioid use disorders,2019,0.212285815
+26,Papua New Guinea,Cocaine use disorders,2019,0.011180535
+26,Papua New Guinea,Amphetamine use disorders,2019,0.008362596
+211,Mali,Drug use disorders,2019,0.084457225
+194,Lesotho,Cocaine use disorders,2019,0.019785375
+194,Lesotho,Amphetamine use disorders,2019,0.010981523
+71,Australia,Drug use disorders,2019,4.590194268
+71,Australia,Opioid use disorders,2019,1.923752031
+71,Australia,Cocaine use disorders,2019,0.032976781
+71,Australia,Amphetamine use disorders,2019,0.183905543
+116,Saint Lucia,Drug use disorders,2019,0.435144299
+116,Saint Lucia,Opioid use disorders,2019,0.082154086
+116,Saint Lucia,Cocaine use disorders,2019,0.211273346
+116,Saint Lucia,Amphetamine use disorders,2019,0.035226756
+118,Suriname,Drug use disorders,2019,0.600855338
+84,Ireland,Drug use disorders,2019,4.07032223
+84,Ireland,Opioid use disorders,2019,2.9546056
+84,Ireland,Cocaine use disorders,2019,0.180058431
+88,Malta,Drug use disorders,2019,1.983771004
+88,Malta,Opioid use disorders,2019,1.338557995
+88,Malta,Cocaine use disorders,2019,0.111967932
+88,Malta,Amphetamine use disorders,2019,0.153528447
+215,Sao Tome and Principe,Drug use disorders,2019,0.430322818
+215,Sao Tome and Principe,Opioid use disorders,2019,0.365913549
+14,Maldives,Drug use disorders,2019,0.349485657
+14,Maldives,Opioid use disorders,2019,0.222640352
+14,Maldives,Cocaine use disorders,2019,0.045974612
+14,Maldives,Amphetamine use disorders,2019,0.028275762
+164,Nepal,Amphetamine use disorders,2019,0.002891629
+108,Belize,Drug use disorders,2019,0.222764938
+108,Belize,Opioid use disorders,2019,0.059538263
+108,Belize,Cocaine use disorders,2019,0.094965534
+108,Belize,Amphetamine use disorders,2019,0.013389345
+76,Belgium,Drug use disorders,2019,1.9613135
+125,Colombia,Drug use disorders,2019,0.265499515
+125,Colombia,Opioid use disorders,2019,0.067180534
+125,Colombia,Cocaine use disorders,2019,0.106263244
+125,Colombia,Amphetamine use disorders,2019,0.01728988
+376,Northern Mariana Islands,Drug use disorders,2019,0.744783528
+374,Niue,Drug use disorders,2019,0.69030899
+374,Niue,Opioid use disorders,2019,0.467308158
+374,Niue,Cocaine use disorders,2019,0.044446628
+374,Niue,Amphetamine use disorders,2019,0.043751445
+205,Côte d'Ivoire,Drug use disorders,2019,0.145484532
+205,Côte d'Ivoire,Opioid use disorders,2019,0.128353
+205,Côte d'Ivoire,Cocaine use disorders,2019,0.001532775
+205,Côte d'Ivoire,Amphetamine use disorders,2019,0.000718883
+107,Barbados,Drug use disorders,2019,0.27520308
+107,Barbados,Opioid use disorders,2019,0.0811245
+107,Barbados,Cocaine use disorders,2019,0.090949946
+107,Barbados,Amphetamine use disorders,2019,0.019727535
+59,Latvia,Drug use disorders,2019,2.64581838
+59,Latvia,Opioid use disorders,2019,2.20365088
+59,Latvia,Cocaine use disorders,2019,0.09219419
+153,Syrian Arab Republic,Drug use disorders,2019,1.056801494
+153,Syrian Arab Republic,Opioid use disorders,2019,0.694771768
+153,Syrian Arab Republic,Cocaine use disorders,2019,0.0484837
+153,Syrian Arab Republic,Amphetamine use disorders,2019,0.0351847
+27,Samoa,Drug use disorders,2019,0.445683305
+27,Samoa,Opioid use disorders,2019,0.340129686
+27,Samoa,Cocaine use disorders,2019,0.023122533
+27,Samoa,Amphetamine use disorders,2019,0.018675734
+186,Seychelles,Drug use disorders,2019,0.91985742
+186,Seychelles,Opioid use disorders,2019,0.53584283
+186,Seychelles,Cocaine use disorders,2019,0.116595759
+186,Seychelles,Amphetamine use disorders,2019,0.074764843
+38,Mongolia,Amphetamine use disorders,2019,0.035025734
+376,Northern Mariana Islands,Opioid use disorders,2019,0.3626245
+376,Northern Mariana Islands,Cocaine use disorders,2019,0.050252379
+376,Northern Mariana Islands,Amphetamine use disorders,2019,0.213867412
+40,Turkmenistan,Drug use disorders,2019,1.29555195
+40,Turkmenistan,Opioid use disorders,2019,0.834008792
+40,Turkmenistan,Cocaine use disorders,2019,0.212578496
+40,Turkmenistan,Amphetamine use disorders,2019,0.080114458
+169,Central African Republic,Drug use disorders,2019,0.263740715
+169,Central African Republic,Opioid use disorders,2019,0.177097928
+169,Central African Republic,Cocaine use disorders,2019,0.013573433
+123,Peru,Drug use disorders,2019,0.489350314
+123,Peru,Opioid use disorders,2019,0.104337472
+123,Peru,Cocaine use disorders,2019,0.243998857
+123,Peru,Amphetamine use disorders,2019,0.035814627
+203,Cabo Verde,Drug use disorders,2019,0.192801783
+203,Cabo Verde,Opioid use disorders,2019,0.156576471
+203,Cabo Verde,Cocaine use disorders,2019,0.002413478
+203,Cabo Verde,Amphetamine use disorders,2019,0.001230211
+169,Central African Republic,Amphetamine use disorders,2019,0.006662998
+140,Bahrain,Drug use disorders,2019,0.240748814
+140,Bahrain,Opioid use disorders,2019,0.176151326
+140,Bahrain,Cocaine use disorders,2019,0.015683329
+140,Bahrain,Amphetamine use disorders,2019,0.007553379
+59,Latvia,Amphetamine use disorders,2019,0.102248629
+152,Saudi Arabia,Drug use disorders,2019,0.561155042
+152,Saudi Arabia,Opioid use disorders,2019,0.395508114
+152,Saudi Arabia,Cocaine use disorders,2019,0.063333177
+152,Saudi Arabia,Amphetamine use disorders,2019,0.031338811
+172,Equatorial Guinea,Drug use disorders,2019,0.329325998
+172,Equatorial Guinea,Opioid use disorders,2019,0.187318169
+121,Bolivia (Plurinational State of),Drug use disorders,2019,0.468813635
+121,Bolivia (Plurinational State of),Opioid use disorders,2019,0.115102738
+121,Bolivia (Plurinational State of),Cocaine use disorders,2019,0.211142037
+121,Bolivia (Plurinational State of),Amphetamine use disorders,2019,0.032421027
+218,Togo,Drug use disorders,2019,0.222763531
+218,Togo,Opioid use disorders,2019,0.197003965
+218,Togo,Cocaine use disorders,2019,0.00224
+218,Togo,Amphetamine use disorders,2019,0.001186976
+135,Brazil,Drug use disorders,2019,0.519943277
+135,Brazil,Opioid use disorders,2019,0.061269127
+135,Brazil,Cocaine use disorders,2019,0.348716192
+135,Brazil,Amphetamine use disorders,2019,0.008709996
+28,Solomon Islands,Drug use disorders,2019,0.661353652
+28,Solomon Islands,Opioid use disorders,2019,0.529440293
+28,Solomon Islands,Cocaine use disorders,2019,0.029658704
+28,Solomon Islands,Amphetamine use disorders,2019,0.022996562
+92,Spain,Drug use disorders,2019,1.582338557
+92,Spain,Opioid use disorders,2019,1.157576958
+92,Spain,Cocaine use disorders,2019,0.057810533
+92,Spain,Amphetamine use disorders,2019,0.082923914
+74,Andorra,Drug use disorders,2019,0.445052995
+74,Andorra,Opioid use disorders,2019,0.335513582
+74,Andorra,Cocaine use disorders,2019,0.016731609
+74,Andorra,Amphetamine use disorders,2019,0.023617998
+43,Albania,Drug use disorders,2019,1.06569723
+43,Albania,Opioid use disorders,2019,0.844107576
+43,Albania,Cocaine use disorders,2019,0.024482833
+43,Albania,Amphetamine use disorders,2019,0.050477577
+156,United Arab Emirates,Drug use disorders,2019,8.710604997
+156,United Arab Emirates,Opioid use disorders,2019,4.931770928
+156,United Arab Emirates,Cocaine use disorders,2019,1.127931859
+156,United Arab Emirates,Amphetamine use disorders,2019,0.618802707
+148,Morocco,Drug use disorders,2019,1.132482189
+148,Morocco,Opioid use disorders,2019,0.810029303
+148,Morocco,Cocaine use disorders,2019,0.058704092
+148,Morocco,Amphetamine use disorders,2019,0.033244949
+30,Vanuatu,Opioid use disorders,2019,0.362740725
+30,Vanuatu,Cocaine use disorders,2019,0.021691758
+30,Vanuatu,Amphetamine use disorders,2019,0.01642105
+13,Malaysia,Drug use disorders,2019,0.440024978
+13,Malaysia,Opioid use disorders,2019,0.299605664
+13,Malaysia,Cocaine use disorders,2019,0.051394554
+22,Fiji,Drug use disorders,2019,0.321613051
+22,Fiji,Opioid use disorders,2019,0.23033819
+22,Fiji,Cocaine use disorders,2019,0.023999714
+22,Fiji,Amphetamine use disorders,2019,0.015118159
+198,Zimbabwe,Drug use disorders,2019,0.846544474
+106,Bahamas,Drug use disorders,2019,0.448653821
+106,Bahamas,Opioid use disorders,2019,0.125596411
+106,Bahamas,Cocaine use disorders,2019,0.145573963
+106,Bahamas,Amphetamine use disorders,2019,0.037678877
+172,Equatorial Guinea,Cocaine use disorders,2019,0.033173428
+172,Equatorial Guinea,Amphetamine use disorders,2019,0.01417464
+91,Portugal,Drug use disorders,2019,0.483320655
+91,Portugal,Opioid use disorders,2019,0.317843893
+91,Portugal,Cocaine use disorders,2019,0.02282241
+91,Portugal,Amphetamine use disorders,2019,0.023811325
+385,Puerto Rico,Drug use disorders,2019,1.57182006
+385,Puerto Rico,Opioid use disorders,2019,0.423498411
+385,Puerto Rico,Cocaine use disorders,2019,0.673805822
+385,Puerto Rico,Amphetamine use disorders,2019,0.122717217
+198,Zimbabwe,Opioid use disorders,2019,0.614105516
+198,Zimbabwe,Cocaine use disorders,2019,0.09216994
+30,Vanuatu,Drug use disorders,2019,0.460522079
+214,Nigeria,Drug use disorders,2019,0.127397655
+214,Nigeria,Opioid use disorders,2019,0.10824957
+214,Nigeria,Cocaine use disorders,2019,0.001515076
+214,Nigeria,Amphetamine use disorders,2019,0.000749309
+87,Luxembourg,Drug use disorders,2019,2.382321276
+87,Luxembourg,Opioid use disorders,2019,1.631022975
+87,Luxembourg,Cocaine use disorders,2019,0.134807436
+87,Luxembourg,Amphetamine use disorders,2019,0.163797556
+369,Nauru,Drug use disorders,2019,0.843857579
+369,Nauru,Opioid use disorders,2019,0.612029989
+369,Nauru,Cocaine use disorders,2019,0.055742951
+369,Nauru,Amphetamine use disorders,2019,0.043427751
+168,Angola,Drug use disorders,2019,0.264406165
+168,Angola,Opioid use disorders,2019,0.173895594
+119,Trinidad and Tobago,Drug use disorders,2019,0.719440449
+119,Trinidad and Tobago,Opioid use disorders,2019,0.16222487
+119,Trinidad and Tobago,Cocaine use disorders,2019,0.384903036
+119,Trinidad and Tobago,Amphetamine use disorders,2019,0.045156819
+55,Slovenia,Drug use disorders,2019,1.366915572
+55,Slovenia,Opioid use disorders,2019,1.065861806
+189,United Republic of Tanzania,Drug use disorders,2019,0.340346086
+189,United Republic of Tanzania,Opioid use disorders,2019,0.24335877
+189,United Republic of Tanzania,Cocaine use disorders,2019,0.019176336
+189,United Republic of Tanzania,Amphetamine use disorders,2019,0.007848225
+201,Burkina Faso,Drug use disorders,2019,0.257497824
+201,Burkina Faso,Opioid use disorders,2019,0.231378844
+201,Burkina Faso,Cocaine use disorders,2019,0.001833996
+77,Cyprus,Drug use disorders,2019,1.298009846
+77,Cyprus,Opioid use disorders,2019,0.913447289
+77,Cyprus,Cocaine use disorders,2019,0.04716436
+77,Cyprus,Amphetamine use disorders,2019,0.060332126
+201,Burkina Faso,Amphetamine use disorders,2019,0.000914075
+217,Sierra Leone,Drug use disorders,2019,0.124700141
+217,Sierra Leone,Opioid use disorders,2019,0.11004576
+217,Sierra Leone,Cocaine use disorders,2019,0.00104007
+217,Sierra Leone,Amphetamine use disorders,2019,0.000546019
+184,Mozambique,Drug use disorders,2019,0.455651029
+184,Mozambique,Opioid use disorders,2019,0.325843906
+184,Mozambique,Cocaine use disorders,2019,0.024070638
+184,Mozambique,Amphetamine use disorders,2019,0.010410932
+151,Qatar,Amphetamine use disorders,2019,0.008664977
+122,Ecuador,Opioid use disorders,2019,0.098108205
+122,Ecuador,Cocaine use disorders,2019,0.166849779
+122,Ecuador,Amphetamine use disorders,2019,0.025535127
+380,Palau,Opioid use disorders,2019,0.342817897
+380,Palau,Cocaine use disorders,2019,0.020861481
+380,Palau,Amphetamine use disorders,2019,0.013628812
+58,Estonia,Drug use disorders,2019,9.767633842
+58,Estonia,Opioid use disorders,2019,7.998470087
+58,Estonia,Cocaine use disorders,2019,0.304136213
+58,Estonia,Amphetamine use disorders,2019,0.594266607
+90,Norway,Drug use disorders,2019,4.475118385
+90,Norway,Opioid use disorders,2019,3.456705235
+90,Norway,Cocaine use disorders,2019,0.166494593
+90,Norway,Amphetamine use disorders,2019,0.212336698
+45,Bulgaria,Drug use disorders,2019,0.994605045
+45,Bulgaria,Opioid use disorders,2019,0.752609098
+45,Bulgaria,Cocaine use disorders,2019,0.028116644
+45,Bulgaria,Amphetamine use disorders,2019,0.048550969
+171,Democratic Republic of the Congo,Drug use disorders,2019,0.247606111
+171,Democratic Republic of the Congo,Opioid use disorders,2019,0.169842451
+171,Democratic Republic of the Congo,Cocaine use disorders,2019,0.013162028
+171,Democratic Republic of the Congo,Amphetamine use disorders,2019,0.00646636
+204,Chad,Drug use disorders,2019,0.086884827
+204,Chad,Opioid use disorders,2019,0.077330882
+204,Chad,Cocaine use disorders,2019,0.000779613
+204,Chad,Amphetamine use disorders,2019,0.000390502
+187,Somalia,Drug use disorders,2019,0.113950896
+187,Somalia,Opioid use disorders,2019,0.087808779
+187,Somalia,Cocaine use disorders,2019,0.004495726
+187,Somalia,Amphetamine use disorders,2019,0.002057754
+29,Tonga,Drug use disorders,2019,0.349865047
+29,Tonga,Opioid use disorders,2019,0.262105689
+29,Tonga,Cocaine use disorders,2019,0.018475397
+29,Tonga,Amphetamine use disorders,2019,0.014994945
+61,Republic of Moldova,Drug use disorders,2019,0.754687936
+61,Republic of Moldova,Opioid use disorders,2019,0.607455466
+61,Republic of Moldova,Cocaine use disorders,2019,0.027354878
+61,Republic of Moldova,Amphetamine use disorders,2019,0.02320356
+155,Turkey,Drug use disorders,2019,0.424075898
+155,Turkey,Opioid use disorders,2019,0.293461551
+155,Turkey,Cocaine use disorders,2019,0.045038127
+155,Turkey,Amphetamine use disorders,2019,0.02177313
+93,Sweden,Drug use disorders,2019,4.741593226
+93,Sweden,Opioid use disorders,2019,3.377572908
+93,Sweden,Cocaine use disorders,2019,0.210773381
+93,Sweden,Amphetamine use disorders,2019,0.351093392
