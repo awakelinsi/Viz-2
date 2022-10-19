@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Drug Mortality by Tiffany Lindsay S</title>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@500;800&family=Space+Mono&display=swap" rel="stylesheet">
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="final.css" media="all">
+
+
+
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <style>
+            h1 {text-align: center;}
+        </style>
+        <h1>THE WORLD AND ITS DRUG PROBLEM</h1>
+        <p id="center">-a visualization about the generational global problem the world has against illicit drugs-</p>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g2">
+          <p2 id="justify">UNODC Executive Director stated as illicit-drug problems continue to hit record highs even during a time of global chaos, misperceptions around the severity of the problem and the associated risks are depriving people of care and treatment affecting generations to come.</p2>
+    </div>
+      <!-- end pure grid group -->
+  
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-1">
+          <h2 id="center">2019 Global Drug Mortality</h2>
+        </div>
+        <div class="pure-u-1-1">
+            <div id="vis1" class="vis-container5" ></div>        
+        </div>
+        </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g2">
+        <p2 id="justify">The estimated number of lives lost directly caused by illicit drugs in 2019 is around 128,000. The choropleth map shows normalized death rates per 100,000 population correlating to the color range. As seen from the map, United States holds the largest drug mortality rate in 2019.</p2>
+  </div>
+    <!-- end pure grid group -->
+
+     <!-- pure grid group -->
+     <div class="pure-g">
+        <div class="pure-u-1-2">
+          <h2 id="left">Drug Mortality Based on Region?</h2>
+        </div>
+        <div class="pure-u-1-2">
+          <p id="left">Looking back to historical 10 year data, America has continuously shown significantly higher numbers of drug mortality. The heatmap below also verifies the severity of drug mortality in America, with 2.11% of North America's death and 0.98% of South America's death caused by drugs. </p>
+        </div>
+      <div class="pure-g">
+        <div class="pure-u-1-5">
+          <div id="vis6" class="vis-container2" ></div>
+        </div>
+        <div class="pure-u-1-5">
+            <div id="vis6" class="vis-container2" ></div>
+          </div>
+        <div class="pure-u-3-5">
+          <div id="vis3" class="vis-container2"></div>
+        </div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+    <div class="pure-u-1-3">
+        <div id="vis5" class="vis-container2"></div>
+      </div>
+        <div class="pure-u-2-3">
+          <h4>Direct Causation and Indirect Causation?</h4>
+          <p3>TWO out of TEN deaths are caused directly by drugs while the others are caused by the risk factors. Indirect deaths are the result from illicit drug use acting as risk factors for diseases. </p3>
+        </div>
+        </div>
+    <!-- end pure grid group -->
+    <!-- pure grid group -->
+    <div class="pure-g2">
+        <p2 id = "justify">The bubble plot below visualizes each country based on the number of direct drug mortality cases and indirect drug mortality cases. The size of the bubble correlates to the population size of the country. Since the data is not normalized, it is expected that countries with larger populations will place higher. However, United States is at the top of the line with a notably smaller population size amongst countries near such as China. </p2>
+    </div>
+    <!-- end pure grid group -->
+     <!-- pure grid group -->
+     <div class="pure-g">
+        <div class="pure-u-1-1">
+            <div id="vis4" class="vis-container-scatter"></div>
+          </div>
+    <div class="pure-g">
+        <div class="pure-u-1-3">
+            <p> The largest age group with the most people associated with drug prevalence is the 20-24 and 25-29 years old age bracket which remains consistent over the past 20 years. This fact highlights that we are going to face drug mortality both directly and indirectly for generations to come.</p>
+            </div>
+        <div class="pure-u-2-3">
+            <div id="vis2" class="vis-container-area"></div>
+            </div>
+            </div>
+            </div>
+    <!-- end pure grid group -->
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-3">
+        <h2>SUBSTANCE TYPE CONTRIBUTION?</h2>
+        <div id="vis8" class="vis-container"></div>
+        </div>
+        <div class="pure-u-2-3"> 
+        <div id="vis7" class="vis-container4"></div>
+    </div>
+    </div>
+    
+
+    <!-- pure grid group -->
+    <div class="pure-g2">
+        <p2 id = "justify">Over the last 20 years, the donut chart has shown that opioid is the largest contributor of  drug mortality by a very large margin compared to other substance types. As seen from the faceted group chart, drug deaths by opioid continue to dominate over the last 5 years of data almost reaching 90,000 deaths.</p2>
+    </div>
+    <!-- end pure grid group -->
+
+
+
+  <script type = "text/javascript">
+    var specVis1 = "/final map.json";
+    var specVis2 = "/area plot.json";
+    var specVis3 = "/heatmap plot.json";
+    var specVis4 = "/scatter bubble plot.json";
+    var specVis5 = "/waffle plot.json";
+    var specVis6 = "/barchart.json";
+    var specVis7 = "/facet bar chart.json";
+    var specVis8 = "/donut chart.json";
+    vegaEmbed('#vis1', specVis1, { "actions": false });
+  
+    vegaEmbed('#vis2', specVis2, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis3', specVis3, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis4', specVis4, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis5', specVis5, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    
+    vegaEmbed('#vis6', specVis6, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis7', specVis7, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis8', specVis8, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+  </script>
+</body>
+
+</html>

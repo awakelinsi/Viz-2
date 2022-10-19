@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 200, 
+  "height": 200,
+  "background": "#E8F6EF",
+  "title": "Drug Prevalence in Age Groups",
+  "data": {"url": "https://raw.githubusercontent.com/awakelinsi/Viz-2/main/age-gender%20pyramid%20plot.csv"},
+  "mark": {"type":"area","tooltip":true},
+  "encoding": {
+    "x": {
+      "timeUnit": "year", "field": "year",
+      "axis":{"title":"Year"}
+    },
+    "y": {
+      "aggregate": "sum", "field": "people"
+    },
+    "color": {
+      "field": "age",
+      "scale": {"scheme": "oranges"}
+    }
+  }
+}
+  

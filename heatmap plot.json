@@ -1,0 +1,88 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "width": 275,
+    "height": 400,
+  
+    "title": {
+      "text": "Drug Mortality per Total Mortality",
+      "anchor": "middle",
+      "fontSize": 16,
+      "frame": "group",
+      "offset": 20
+    },
+  
+    "data": [
+      {
+        "name": "mortality",
+        "url": "https://raw.githubusercontent.com/awakelinsi/Viz-2/main/heatmap%20data.csv",
+        "format": {"type": "csv", 
+        "parse": {
+          "drug_proportion": "number",
+          "year": "date" }}
+      }
+    ],
+    
+    "scales": [
+      {
+        "name": "x",
+        "type": "time",
+        "domain": {"data": "mortality", "field": "year"},
+        "range": "width"
+      },
+      {
+        "name": "y",
+        "type": "band",
+        "domain": {"data": "mortality","field": "continent"},
+        "range": "height"
+      },
+      {
+        "name": "color",
+        "type": "quantile", 
+        "range": {"scheme": "purples"},
+        "domain": {"data": "mortality", "field": "drug_proportion"}
+      }
+    ],
+  
+    "axes": [
+      {"orient": "bottom", "scale": "x", "domain": false, "title": "Year"},
+      {
+        "orient": "left", "scale": "y", "domain": false, "title": "Continent"
+        
+      }
+    ],
+  
+    "legends": [
+      {
+        "fill": "color",
+        "type": "symbol",
+        "labelFontSize":8,
+        "title": "Proportion in %",
+        "direction": "horizontal",
+        "orient": "bottom",
+        "titleFontSize": 10,
+        "titlePadding": 3,
+        "gradientLength": {"signal": "width"}
+      }
+    ],
+  
+    "marks": [
+      {
+        "type": "rect",
+        "from": {"data": "mortality"},
+        "encode": {
+          "enter": {
+            "x": {"scale": "x", "timeUnit": "year","field": "year"}, 
+            "y": {"scale": "y", "field": "continent"},
+            "width": {"value": 50},
+            "height": {"scale": "y", "band": 1},
+            "tooltip": [
+              {"signal": "{\"Continent\": datum.continent, \"Proportion\": format(datum.drug_proportion,',.2f')}"}
+            ]
+          },
+          "update": {
+            "fill": {"scale": "color", "field": "drug_proportion"}
+          }
+        }
+      }
+    ]
+    }

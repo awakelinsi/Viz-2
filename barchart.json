@@ -1,0 +1,80 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 400,
+  "width": 200,
+  "background": "#E8F6EF",
+  "description": "A simple bar chart with embedded data.",
+  "data": { 
+    "url":"https://raw.githubusercontent.com/awakelinsi/Viz-2/hw-week-10/data/IHME-GBD_2019_DATA-faba3982-1.csv"
+  },
+  "params":[
+    {
+      "name": "Year_selection",
+      "value": 2019,
+      "bind": {
+        "input": "select",
+        "options": [
+          "2009",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019"
+        ],
+        "labels":[
+          "2009",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019"
+        ],
+        "name": "Year Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.year == Year_selection"}
+  ],
+  "encoding": {
+    "x": {
+      "field": "location_name",
+      "title": "Continent",
+      "type": "nominal", 
+      "axis": {"labelAngle": 0},
+      "sort": ["Oceania","America","Asia","Africa", "Europe"]
+      },
+    "y": {
+      "field": "val",
+      "title": "Drug Mortality",
+      "type": "quantitative"
+    }
+  },
+  "layer": [
+    {
+      "mark":"bar",
+      "encoding": {
+        "color":{
+          "field": "location_name",
+          "type": "nominal",
+          "legend": null
+          },
+      "opacity":{"value":1},
+      "tooltip": [
+        {"field": "location_name", "type": "nominal", "title": "Continent"},
+        {"field": "val", "type": "quantitative", "format": ",","title": "Value"}
+        ]
+      }
+    }
+  ]
+}
